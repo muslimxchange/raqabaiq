@@ -8,7 +8,7 @@
   <Description DefaultValue="Write your own Excel functions in JavaScript."/>
   <IconUrl DefaultValue="https://muslimxchange.github.io/raqabaiq/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://muslimxchange.github.io/raqabaiq/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://raqabaiq.com/excel-addin/"/>
+  <SupportUrl DefaultValue="https://raqabaiq.com/contact/"/>
   <AppDomains>
     <AppDomain>https://raqabaiq.com</AppDomain>
   </AppDomains>
