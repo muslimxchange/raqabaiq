@@ -19,7 +19,8 @@
             ],
             "result": {
                 "dimensionality": "matrix"
-            }
+            },
+            "helpUrl": "https://muslimxchange.com/raqabaiq-excel-addin/#functions"
         },
         {
             "description": "Fetches data for a ISIN with specific fields.",
@@ -39,7 +40,8 @@
             ],
             "result": {
                 "dimensionality": "matrix"
-            }
+            },
+            "helpUrl": "https://muslimxchange.com/raqabaiq-excel-addin/#functions"
         }
     ]
 }
